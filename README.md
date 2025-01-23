@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Morgan Hunt and I'm majoring in the Bachelors of Science Computer Science Program. 
+My name is Morgan Hunt and I'm majoring in the Bachelors of Science Computer Science Program at Wright State. 
 
 ## Planned Projects
 1. A medium complexity calculator. It should be able to perform all basic operation and follow the appropriate order of operations. I also want to include an appropriate GUI to navigate the calculator. 
