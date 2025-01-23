@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Morgan Hunt and I'm majoring in the Bacholors of Science Computer Science Program. 
+My name is Morgan Hunt and I'm majoring in the Bachelors of Science Computer Science Program. 
 
-Below are projects I plan to work on this semester: 
-1. A medium complexity calculator. It should be able to perform all basic operations, and follow the appropriate order of operations. 
-2. I also want to make a simple base-n converter to practice some things with recursion.
+## Planned Projects
+1. A medium complexity calculator. It should be able to perform all basic operation and follow the appropriate order of operations. I also want to include an appropriate GUI to navigate the calculator. 
+2. I also want to make a simple base-n converter to practice some things with recursion. Ideally the program will evaluate recursive through how I calculate the conversions of base-10 to base-n numbers. I also home to include various different base-n number types. The goal in this project is to cement my understanding of base-n numbers and recursion.
