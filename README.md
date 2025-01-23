@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Morgan Hunt and I'm majoring in the Bacholors of Science Computer Science Program. 
+
+Below are projects I plan to work on this semester: 
+1. A medium complexity calculator. It should be able to perform all basic operations, and follow the appropriate order of operations. 
+2. I also want to make a simple base-n converter to practice some things with recursion.
